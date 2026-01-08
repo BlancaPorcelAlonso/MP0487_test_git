@@ -33,7 +33,6 @@
     unset($datos["ciudad"]);
     echo var_dump($datos) . "<br>";
 
-
     echo "<br> EJERCICIO 5<br>";
     $letters = "a,b,c,d,e,f";
     $lettersArray = explode(",", $letters);
