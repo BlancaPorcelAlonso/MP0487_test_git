@@ -44,7 +44,6 @@ function mostrarComicsEnTabla()
 
     echo '</table>';
 }
-
 function mostrarValorAlmacen()
 {
     global $inventario;
